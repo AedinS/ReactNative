@@ -1,6 +1,6 @@
 import React from 'react';
 import {Text, View, Button} from 'react-native';
-import MyButton from './src/components/MyButton';
+import MyButton from './src/components/CustomComp';
 
 const App = () => {
   return (
